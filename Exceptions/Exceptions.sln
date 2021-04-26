@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{6FAD5E15-5FDE-4A44-8D77-BF6FE070891A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "..\Database\Database\Database.csproj", "{2951BF1C-CCA2-4FC3-A1FD-9F46141E74CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application Layer", "..\Application Layer\CSVFile\Application Layer.csproj", "{034771B6-6EBB-4DE1-9522-026272D4FC49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FAD5E15-5FDE-4A44-8D77-BF6FE070891A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAD5E15-5FDE-4A44-8D77-BF6FE070891A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAD5E15-5FDE-4A44-8D77-BF6FE070891A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAD5E15-5FDE-4A44-8D77-BF6FE070891A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2951BF1C-CCA2-4FC3-A1FD-9F46141E74CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2951BF1C-CCA2-4FC3-A1FD-9F46141E74CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2951BF1C-CCA2-4FC3-A1FD-9F46141E74CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2951BF1C-CCA2-4FC3-A1FD-9F46141E74CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034771B6-6EBB-4DE1-9522-026272D4FC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034771B6-6EBB-4DE1-9522-026272D4FC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034771B6-6EBB-4DE1-9522-026272D4FC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034771B6-6EBB-4DE1-9522-026272D4FC49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

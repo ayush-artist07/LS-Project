@@ -1,0 +1,4 @@
+C:\C#\practical\Final Project\Exceptions\Exceptions\bin\Debug\Exceptions.dll
+C:\C#\practical\Final Project\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\C#\practical\Final Project\Exceptions\Exceptions\obj\Debug\Exceptions.dll
+C:\C#\practical\Final Project\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

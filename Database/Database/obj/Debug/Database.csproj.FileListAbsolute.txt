@@ -1,0 +1,12 @@
+C:\C#\practical\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\C#\practical\Database\Database\bin\Debug\Database.dll
+C:\C#\practical\Database\Database\bin\Debug\Database.pdb
+C:\C#\practical\Database\Database\obj\Debug\Database.dll
+C:\C#\practical\Database\Database\obj\Debug\Database.pdb
+C:\C#\practical\Final Project\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\C#\practical\Final Project\Database\Database\bin\Debug\Database.dll
+C:\C#\practical\Final Project\Database\Database\bin\Debug\Database.pdb
+C:\C#\practical\Final Project\Database\Database\bin\Debug\Exceptions.dll
+C:\C#\practical\Final Project\Database\Database\bin\Debug\Exceptions.pdb
+C:\C#\practical\Final Project\Database\Database\obj\Debug\Database.dll
+C:\C#\practical\Final Project\Database\Database\obj\Debug\Database.pdb

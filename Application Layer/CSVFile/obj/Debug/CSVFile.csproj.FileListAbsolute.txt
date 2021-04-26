@@ -1,0 +1,18 @@
+C:\C#\practical\CSVFile\CSVFile\bin\Debug\CSVFile.exe.config
+C:\C#\practical\CSVFile\CSVFile\bin\Debug\CSVFile.exe
+C:\C#\practical\CSVFile\CSVFile\bin\Debug\CSVFile.pdb
+C:\C#\practical\CSVFile\CSVFile\bin\Debug\Database.dll
+C:\C#\practical\CSVFile\CSVFile\bin\Debug\Database.pdb
+C:\C#\practical\CSVFile\CSVFile\obj\Debug\CSVFile.csprojResolveAssemblyReference.cache
+C:\C#\practical\CSVFile\CSVFile\obj\Debug\CSVFile.exe
+C:\C#\practical\CSVFile\CSVFile\obj\Debug\CSVFile.pdb
+C:\C#\practical\Final Project\CSVFile\CSVFile\bin\Debug\CSVFile.exe.config
+C:\C#\practical\Final Project\CSVFile\CSVFile\obj\Debug\CSVFile.exe
+C:\C#\practical\Final Project\CSVFile\CSVFile\obj\Debug\CSVFile.pdb
+C:\C#\practical\Final Project\CSVFile\CSVFile\bin\Debug\CSVFile.exe
+C:\C#\practical\Final Project\CSVFile\CSVFile\bin\Debug\CSVFile.pdb
+C:\C#\practical\Final Project\CSVFile\CSVFile\bin\Debug\Database.dll
+C:\C#\practical\Final Project\CSVFile\CSVFile\bin\Debug\Database.pdb
+C:\C#\practical\Final Project\CSVFile\CSVFile\obj\Debug\CSVFile.csprojResolveAssemblyReference.cache
+C:\C#\practical\Final Project\CSVFile\CSVFile\bin\Debug\ExceptionHandling.dll
+C:\C#\practical\Final Project\CSVFile\CSVFile\bin\Debug\ExceptionHandling.pdb
